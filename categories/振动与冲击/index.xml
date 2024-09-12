@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>《振动与冲击》 on 王一珉</title>
+        <link>https://wymin1996.github.io/categories/%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%86%B2%E5%87%BB/</link>
+        <description>Recent content in 《振动与冲击》 on 王一珉</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>王一珉</copyright><atom:link href="https://wymin1996.github.io/categories/%E6%8C%AF%E5%8A%A8%E4%B8%8E%E5%86%B2%E5%87%BB/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>坦克炮控系统RBF神经网络自适应鲁棒控制方法研究</title>
+        <link>https://wymin1996.github.io/p/%E5%9D%A6%E5%85%8B%E7%82%AE%E6%8E%A7%E7%B3%BB%E7%BB%9Frbf%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%87%AA%E9%80%82%E5%BA%94%E9%B2%81%E6%A3%92%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://wymin1996.github.io/p/%E5%9D%A6%E5%85%8B%E7%82%AE%E6%8E%A7%E7%B3%BB%E7%BB%9Frbf%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%87%AA%E9%80%82%E5%BA%94%E9%B2%81%E6%A3%92%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6/</guid>
+        <description>&lt;h2 id=&#34;doi&#34;&gt;DOI
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.13465/j.cnki.jvs.2022.24.009&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.13465/j.cnki.jvs.2022.24.009&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要
+&lt;/h2&gt;&lt;p&gt;随着新一代坦克的发展，对其射击精度、炮口动能均提出了更高的要求，已有的坦克炮系统建模方法和控制策略已不能满足要求。为此，考虑车炮系统中非线性多因素，搭建了坦克行进间车炮系统多体动力学模型，并设计了基于RBF(radial basis function)神经网络补偿未建模扰动估计项的自适应鲁棒坦克炮控系统控制器。以行进间坦克的炮口扰动因素为优化目标，根据控制指令设计自适应律，实现未知系统参数的实时更新。仿真结果表明，新控制方法与传统的相比，具有更好跟踪效果和更强的鲁棒性。&lt;/p&gt;
+&lt;h2 id=&#34;关键词&#34;&gt;关键词
+&lt;/h2&gt;&lt;p&gt;车炮系统多体动力学;非线性;稳定系统;自适应鲁棒控制;神经网络;机电一体化&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

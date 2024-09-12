@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Top期刊 on 王一珉</title>
+        <link>https://wymin1996.github.io/categories/top%E6%9C%9F%E5%88%8A/</link>
+        <description>Recent content in Top期刊 on 王一珉</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>王一珉</copyright><atom:link href="https://wymin1996.github.io/categories/top%E6%9C%9F%E5%88%8A/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Nonlinear adaptive robust control of tank bidirectional stabilizers with dead zone compensation based on extended state observer</title>
+        <link>https://wymin1996.github.io/p/nonlinear-adaptive-robust-control-of-tank-bidirectional-stabilizers-with-dead-zone-compensation-based-on-extended-state-observer/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://wymin1996.github.io/p/nonlinear-adaptive-robust-control-of-tank-bidirectional-stabilizers-with-dead-zone-compensation-based-on-extended-state-observer/</guid>
+        <description>&lt;h2 id=&#34;doi&#34;&gt;DOI
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1016/j.isatra.2024.07.035&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1016/j.isatra.2024.07.035&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要
+&lt;/h2&gt;&lt;p&gt;In this paper, the problem of highly performance motion control of tank bidirectional stabilizer with dead zone nonlinearity and uncertain nonlinearity is addressed. First, the electromechanical coupling dynamics model of bidirectional stabilizer is developed finely. Second, the dead zone nonlinearity in bidirectional stabilizer is characterized as the combination of an uncertain time-varying gain and a bounded disturbance term. Meanwhile, an adaptive robust controller with dead zone compensation is proposed by organically combining adaptive technique and extended state observer (ESO) through backstepping method. The adaptive technique is employed to reduce the impact of unknown system parameter and dead zone parameter. Furthermore, the ESO is constructed to compensate the lumped uncertainties including unmodeled dynamics and dead zone residual, and integrated together via a feedforward cancellation technique. Moreover, the adaptive robust control law is derived to ensure final global stability. In stability analysis, the asymptotic tracking performance of the proposed controller can be guaranteed as the uncertainty nonlinearities in tank bidirectional stabilizer are constant. It is also guaranteed to achieve bounded tracking performance when time-varying uncertainties exist. Extensive co-simulation and experimental results verify the superiority of the proposed strategy.&lt;/p&gt;
+&lt;h2 id=&#34;关键词&#34;&gt;关键词
+&lt;/h2&gt;&lt;p&gt;tank bidirectional stabilizer; dead zone compensation; extended state observer; adaptive robust control; co-simulation and experiment&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

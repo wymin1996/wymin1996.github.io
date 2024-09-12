@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>《Electronics》 on 王一珉</title>
+        <link>https://wymin1996.github.io/categories/electronics/</link>
+        <description>Recent content in 《Electronics》 on 王一珉</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>王一珉</copyright><atom:link href="https://wymin1996.github.io/categories/electronics/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Nonlinear robust control of vehicle stabilization system with uncertainty based on neural network</title>
+        <link>https://wymin1996.github.io/p/nonlinear-robust-control-of-vehicle-stabilization-system-with-uncertainty-based-on-neural-network/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://wymin1996.github.io/p/nonlinear-robust-control-of-vehicle-stabilization-system-with-uncertainty-based-on-neural-network/</guid>
+        <description>&lt;h2 id=&#34;doi&#34;&gt;DOI
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.3390/electronics13101988&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.3390/electronics13101988&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要
+&lt;/h2&gt;&lt;p&gt;To effectively suppress the effects of uncertainties including unmodeled dynamics and external disturbances in the vehicle stabilization system, a nonlinear robust control strategy based on a multilayer neural network is proposed in this paper. First, the mechanical and electrical coupling dynamics model of the vehicle stabilization system, considering model uncertainty and actuator dynamics, is refined. Second, the lumped uncertainty of the vehicle stabilization system is estimated by a multi-layer neural network and compensated by feedforward control. The high robustness of the system is ensured by constructing the sliding mode feedback control law. The proposed control method overcomes the limitations of sliding mode technology and the neural network and is naturally applied to the vehicle stabilization system, avoiding the adverse effects of high-gain feedback. Based on Lyapunov theory, it is demonstrated that the proposed controller is able to achieve the desired stability tracking performance. Finally, the effectiveness of the proposed control strategy is verified by co-simulation and comparative experiments&lt;/p&gt;
+&lt;h2 id=&#34;关键词&#34;&gt;关键词
+&lt;/h2&gt;&lt;p&gt;vehicle stabilization system; sliding mode control; neural network; robust control; lumped uncertainty&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

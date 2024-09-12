@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>《国际会议》 on 王一珉</title>
+        <link>https://wymin1996.github.io/categories/%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE/</link>
+        <description>Recent content in 《国际会议》 on 王一珉</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>王一珉</copyright><atom:link href="https://wymin1996.github.io/categories/%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sliding mode controller with neural network compensation for tank</title>
+        <link>https://wymin1996.github.io/p/sliding-mode-controller-with-neural-network-compensation-for-tank/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://wymin1996.github.io/p/sliding-mode-controller-with-neural-network-compensation-for-tank/</guid>
+        <description>&lt;h2 id=&#34;doi&#34;&gt;DOI
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.21595/vp.2024.24004&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.21595/vp.2024.24004&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要
+&lt;/h2&gt;&lt;p&gt;The control effectiveness of the all-electric tank stabilizers directly affects the firing accuracy of the tank gun. In order to improve the firing accuracy of the moving tank, this paper proposes a sliding mode control (SMC) strategy using neural network feed-forward compensation for the tank bidirectional stabilizers. SMC technology can quickly and effectively deal with uncertainties, unmodeled terms, and external disturbances in complex tank systems. Neural networks possess the advantage of approximating arbitrary continuous functions in finite time, realizing the estimation of SMC control errors with feed-forward compensation. The Lyapunov stability analysis proves that the designed controller can achieve asymptotic stabilization in finite time. Finally, both co-simulation and physical experiments are conducted. The results show that the proposed control strategy possesses better tracking speed and tracking accuracy compared to the conventional controller and exhibits strong robustness.&lt;/p&gt;
+&lt;h2 id=&#34;关键词&#34;&gt;关键词
+&lt;/h2&gt;&lt;p&gt;all-electric tank bidirectional stabilizers, sliding mode control (SMC), neural network compensation, stability analysis, co-simulation and experiment verification.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Dynamics analysis of hull vibration for tank firing on the move</title>
+        <link>https://wymin1996.github.io/p/dynamics-analysis-of-hull-vibration-for-tank-firing-on-the-move/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://wymin1996.github.io/p/dynamics-analysis-of-hull-vibration-for-tank-firing-on-the-move/</guid>
+        <description>&lt;h2 id=&#34;doi&#34;&gt;DOI
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.2991/smont-19.2019.15&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.2991/smont-19.2019.15&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要
+&lt;/h2&gt;&lt;p&gt;Aiming at the low firing accuracy problem of tank on the move caused by hull vibration under the condition of high-speed and uneven surface road, using the muzzle vibration to characterize firing accuracy, a dynamic model for tank firing on the move was established based on multi-body system dynamics, vehicle-terramechanics and gun launch dynamics. The three-dimensional road surface spectrum file considering the left and right track unevenness coherence was written by means of the sinusoid superposition method. Through the dynamics analysis of the hull vibration, some of the proposals for reducing the influence of hull vibration were presented. The results show that the hull vibration can be divided into linear vibration and angular vibration. The linear vibration is very sensitive to the changes of speed and road surface level and can be effectively reduced by integrating the control device into the suspension. The angular vibration is more sensitive to the changes of the pavement level than the speed. Through the optimization design of fire system and introducing modern control theory into the current stabilizer, angular vibration effect can be effectively reduced. The result provides a certain reference to understand the muzzle vibration rule and improve the firing accuracy of on-the-move tank.&lt;/p&gt;
+&lt;h2 id=&#34;关键词&#34;&gt;关键词
+&lt;/h2&gt;&lt;p&gt;tank; firing on the move; hull vibration; multi-body system dynamics&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>《IEEE Access》 on 王一珉</title>
+        <link>https://wymin1996.github.io/categories/ieee-access/</link>
+        <description>Recent content in 《IEEE Access》 on 王一珉</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>王一珉</copyright><atom:link href="https://wymin1996.github.io/categories/ieee-access/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Adaptive robust stability control of all-electrical tank gun compensated by radial basis neural network</title>
+        <link>https://wymin1996.github.io/p/adaptive-robust-stability-control-of-all-electrical-tank-gun-compensated-by-radial-basis-neural-network/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://wymin1996.github.io/p/adaptive-robust-stability-control-of-all-electrical-tank-gun-compensated-by-radial-basis-neural-network/</guid>
+        <description>&lt;h2 id=&#34;doi&#34;&gt;DOI
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1109/ACCESS.2023.3325339&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1109/ACCESS.2023.3325339&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;摘要&#34;&gt;摘要
+&lt;/h2&gt;&lt;p&gt;Stability control of the tank gun has emerged as a pivotal issue for moving tank gun control systems (TGCS). As a complex electromechanical integrated system, TGCS of moving tank inevitably possesses significant parametric uncertainties and uncertain nonlinearities. To effectively enhance the stabilization control performance of TGCS, in this study, we introduce an adaptive robust control (ARC) strategy based on radial basis function neural network (RBFNN) compensation. The adaptive technique is employed to address the parametric uncertainties, while the RBFNN is constructed to approximate the uncertain nonlinearities and realize feedforward compensation. Subsequently, to suppress the residual uncertainties, a nonlinear robust feedback control rate is devised to strengthen the robustness of the developed controller. Lyapunov analysis shows that the proposed controller achieves uniform ultimate bounded stability. Extensive simulation and electromechanical experimental results confirm the effectiveness of the proposed controller, which shows outstanding performance in handling strong parametric uncertainties and uncertain nonlinearities.&lt;/p&gt;
+&lt;h2 id=&#34;关键词&#34;&gt;关键词
+&lt;/h2&gt;&lt;p&gt;adaptive control, robust control, radial basis neural network, tank gun control system&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
